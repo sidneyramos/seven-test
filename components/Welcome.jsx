@@ -3,6 +3,7 @@ import styled from "styled-components";
 import cardImage from "../static/card.png";
 import logoImage from "../static/logo.png";
 import tileImage from "../static/tile.jpg";
+import testImage from "../static/test.png";
 
 require("typeface-rubik");
 
@@ -206,12 +207,27 @@ const Card = () => (
       <ul>
         <li>
           <strong>Building an collection card grid</strong>
-          <ul>
+          <p>
             Due to time constraints, I could only focus on creating an
             individual card component. It would have been nice to demonstrate
             what would happen if you insert the card into a grid. But maybe that
             should be left for some other time.
-          </ul>
+          </p>
+        </li>
+      </ul>
+    </p>
+    <p>
+      <strong>Testing Results:</strong>
+      <ul>
+        <li>
+          <strong>Snapshot Testing</strong>
+          <p>
+            Due to time constraints, only limited testing was done. Snapshot
+            Testing through Jest was done just to ensure that it renders
+            correctly. If I had more time I would've been able to come up with
+            more test cases.
+            <img src={testImage} alt="testing results" />
+          </p>
         </li>
       </ul>
     </p>
