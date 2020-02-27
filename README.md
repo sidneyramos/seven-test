@@ -72,3 +72,9 @@ The task was to create a responsive card component that looks like following ima
 *   **Building an collection card grid**
 
       Due to time constraints, I could only focus on creating an individual card component. It would have been nice to demonstrate what would happen if you insert the card into a grid. But maybe that should be left for some other time.
+      
+**Testing Results:**
+
+*   **Snapshot Testing**
+
+      Due to time constraints, only limited testing was done. Snapshot Testing through Jest was done just to ensure that it renders correctly. If I had more time I would've been able to come up with more test cases.
