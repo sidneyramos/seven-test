@@ -1,0 +1,32 @@
+{
+  "name": "seven-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "fitty": "^2.3.0",
+    "prop-types": "^15.7.2",
+    "react-scale-text": "^1.2.2",
+    "react-textfit": "^1.1.0",
+    "styled-components": "^5.0.1",
+    "typeface-montserrat": "0.0.75",
+    "typeface-rubik": "0.0.72"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@storybook/addon-actions": "^5.3.14",
+    "@storybook/addon-links": "^5.3.14",
+    "@storybook/addons": "^5.3.14",
+    "@storybook/react": "^5.3.14",
+    "babel-loader": "^8.0.6"
+  }
+}
