@@ -1,0 +1,168 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="sc-AxjAm imRVdv card-container"
+  height={0}
+  width={0}
+>
+  <div
+    className="sc-AxirZ qSyhk inner-card-container"
+  >
+    <div
+      className="sc-AxiKw isPqKo"
+    >
+      <div
+        className="sc-AxhCb eDRkHZ overlay-container"
+      >
+        <img
+          alt="Seven West Media"
+          className="sc-AxheI lddWen"
+          src="https://sidneyramos.github.io/seven-test/static/media/logo.2a3f011a.png"
+        />
+        <div
+          className="sc-AxgMl bsNrIm"
+        >
+          <h1
+            className="sc-AxhUy ivyjjC fit"
+          >
+            Home and Away
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly with hover props 1`] = `
+<div
+  className="sc-AxjAm imRVdv card-container hover"
+  height={0}
+  width={0}
+>
+  <div
+    className="sc-AxirZ qSyhk inner-card-container"
+  >
+    <div
+      className="sc-AxiKw isPqKo"
+    >
+      <div
+        className="sc-AxhCb eDRkHZ overlay-container"
+      >
+        <img
+          alt="Seven West Media"
+          className="sc-AxheI lddWen"
+          src="https://sidneyramos.github.io/seven-test/static/media/logo.2a3f011a.png"
+        />
+        <div
+          className="sc-AxgMl bsNrIm"
+        >
+          <h1
+            className="sc-AxhUy ivyjjC fit"
+          >
+            Home and Away
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly without image 1`] = `
+<div
+  className="sc-AxjAm UnUtx card-container"
+  height={0}
+  width={0}
+>
+  <div
+    className="sc-AxirZ qSyhk inner-card-container"
+  >
+    <div
+      className="sc-AxiKw isPqKo"
+    >
+      <div
+        className="sc-AxhCb eDRkHZ overlay-container"
+      >
+        <img
+          alt="Seven West Media"
+          className="sc-AxheI lddWen"
+          src="https://sidneyramos.github.io/seven-test/static/media/logo.2a3f011a.png"
+        />
+        <div
+          className="sc-AxgMl bsNrIm"
+        >
+          <h1
+            className="sc-AxhUy ivyjjC fit"
+          >
+            Home and Away
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly without logo 1`] = `
+<div
+  className="sc-AxjAm imRVdv card-container"
+  height={0}
+  width={0}
+>
+  <div
+    className="sc-AxirZ qSyhk inner-card-container"
+  >
+    <div
+      className="sc-AxiKw isPqKo"
+    >
+      <div
+        className="sc-AxhCb eDRkHZ overlay-container"
+      >
+        <div
+          className="sc-AxgMl bsNrIm"
+        >
+          <h1
+            className="sc-AxhUy ivyjjC fit"
+          >
+            Home and Away
+          </h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly without props 1`] = `
+<div
+  className="sc-AxjAm UnUtx card-container"
+  height={0}
+  width={0}
+>
+  <div
+    className="sc-AxirZ qSyhk inner-card-container"
+  >
+    <div
+      className="sc-AxiKw isPqKo"
+    />
+  </div>
+</div>
+`;
+
+exports[`renders correctly without title 1`] = `
+<div
+  className="sc-AxjAm imRVdv card-container"
+  height={0}
+  width={0}
+>
+  <div
+    className="sc-AxirZ qSyhk inner-card-container"
+  >
+    <div
+      className="sc-AxiKw isPqKo"
+    />
+  </div>
+</div>
+`;

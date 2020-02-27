@@ -1,12 +1,8 @@
 import React, { Fragment, useEffect } from "react";
 import styled from "styled-components";
-import tileImage from "../static/tile.jpg";
-import logoImage from "../static/logo.png";
-import { Textfit } from "react-textfit";
 import fitty from "fitty";
 
 const classNames = require("classnames");
-require("typeface-montserrat");
 
 const CardContainer = styled.div`
   height: 0;
@@ -23,7 +19,7 @@ const CardContainer = styled.div`
 
   &.hover {
     cursor: pointer;
-    
+
     .overlay-container {
       opacity: 0;
       transition: all 0.3s;

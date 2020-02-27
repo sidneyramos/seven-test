@@ -5,6 +5,7 @@ import Card from "../components/Card";
 import styled from "styled-components";
 import tileImage from "../static/tile.jpg";
 import logoImage from "../static/logo.png";
+require("typeface-montserrat");
 
 export default {
   title: "Card",
